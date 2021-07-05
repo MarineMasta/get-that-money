@@ -1,7 +1,7 @@
 # Progressive Budget Tracker
 A budget tracker application to allow for offline access and functionality.
 
-[[Deployed App]](https://bwaycarl.github.io/Portfolio/)
+[[Deployed App]](https://get-that-money.herokuapp.com/)
 
 
 
